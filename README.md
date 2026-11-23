@@ -30,3 +30,9 @@ This creates an `expenses.csv` file in the project folder.
 
 ## Storage
 The application automatically creates an `expenses.db` SQLite database.
+
+## Project Update 1
+
+- Added project overview.
+- Improved project information.
+- Updated application details.
