@@ -36,3 +36,9 @@ The application automatically creates an `expenses.db` SQLite database.
 - Added project overview.
 - Improved project information.
 - Updated application details.
+
+## Project Update 2
+
+- Added future improvements.
+- Added new project notes.
+- Updated documentation.
